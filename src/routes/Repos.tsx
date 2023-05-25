@@ -16,7 +16,7 @@ const Repos = () => {
   useEffect(() => {
     const loadrepos = async function (username: string) {
       setIsLoading(true);
-      const res = await fetch(`http://api.github.com/users/${username}/repos`);
+      const res = await fetch(`https://api.github.com/users/${username}/repos`);
       const data = await res.json();
       setIsLoading(false);
       const orderedRepos = data.sort(
