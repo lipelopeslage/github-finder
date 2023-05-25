@@ -17,6 +17,8 @@ const Home = () => {
     const res = await fetch(`https://api.github.com/users/${userName}`);
     const data = await res.json();
 
+    setIsLoading(false);
+
     if (res.status === 404) {
       return setError(true);
     }
@@ -30,7 +32,6 @@ const Home = () => {
       following,
     };
 
-    setIsLoading(false);
     setError(false);
     setUser(userData);
   };
