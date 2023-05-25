@@ -1,6 +1,6 @@
 # Github Finder
 
-This is a tutorial project presented by [Matheus Battisti](https://www.youtube.com/watch?v=3sQITRihW_A).
+This is a tutorial project presented by [Matheus Battisti](https://www.youtube.com/watch?v=3sQITRihW_A) in [this repo](https://github.com/matheusbattisti/react_github_api).
 The main idea is to follow it step-by-step first, and then add smaller adjustments through time.
 
 I added the [standard-version dependency](https://www.npmjs.com/package/standard-version) as a way to feed a changelog with every change, to keep a timeline with everychange, using conventional commits.
