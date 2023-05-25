@@ -2,7 +2,7 @@
   "homepage": "https://lipelopeslage.github.io/github-finder",
   "name": "github-funder",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "scripts": {
     "dev": "vite",

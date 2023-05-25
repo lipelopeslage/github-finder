@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com-lipelopeslage/lipelopeslage/github-finder/compare/v0.0.2...v0.0.3) (2023-05-25)
+
+
+### Bug Fixes
+
+* adjust spinner for home page ([d556aec](https://github.com-lipelopeslage/lipelopeslage/github-finder/commit/d556aec70cdcd129617cba61189e3ffa552f9da5))
+
 ### 0.0.2 (2023-05-25)
 
 
